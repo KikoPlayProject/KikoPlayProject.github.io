@@ -1,0 +1,24 @@
+[
+  {
+    "text": "日志",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "截图",
+    "url": "/screenshots",
+    "icon": "fa-image"
+  },
+  {
+    "text": "关于",
+    "url": "/about/",
+    "icon": "fa-comments"
+  },
+  {
+    "text": "RSS",
+    "url": "/feed.xml",
+    "icon": "fa-feed",
+    "target": _blank
+  }
+]

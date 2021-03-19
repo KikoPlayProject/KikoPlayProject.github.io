@@ -1,0 +1,44 @@
+title: KikoPlay
+description: KikoPlay - 不仅仅是全功能弹幕播放器
+author: Kikyou
+logo: /static/img/kikoplay-w.png
+github: https://github.com/Protostars/KikoPlay/
+about: 不仅仅是全功能弹幕播放器
+version: 最新版本：0.8.0
+
+#baseurl: "https://protostars.github.io/KikoPlay"
+#url: "https://protostars.github.io/KikoPlay"
+
+allowsearch: false
+
+disqus_shortname: KikoPlay
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
+exclude:
+  - .vs/
+  - KikoPlay.pro.user
+  - .qmake.stash
+  - GeneratedFiles/
+  - KikoPlay.VC.VC.opendb
+  - KikoPlay.VC.db
+  - KikoPlay.sln
+  - KikoPlay.vcxproj
+  - KikoPlay.vcxproj.filters
+  - KikoPlay.vcxproj.user
+  - Win32/
+  - kikoplay.aps
+  - release/
+  - debug/
+  - x64

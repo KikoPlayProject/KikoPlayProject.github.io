@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Player",
+		"image": "player.jpg"
+	},
+	{
+		"name": "Ubuntu",
+		"image": "ubuntu.png"
+	},
+	{
+		"name": "Library",
+		"image": "library.jpg"
+	},
+	{
+		"name": "Anime",
+		"image": "anime.jpg"
+	},
+	{
+		"name": "Download",
+		"image": "download.jpg"
+	},
+	{
+		"name": "Bangumi",
+		"image": "bangumi.jpg"
+	}
+]
