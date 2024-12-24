@@ -30,7 +30,3 @@ permalink: /about/
 觉得KikoPlay不错？欢迎推荐更多人来使用
 
 遇到问题？[Github](https://github.com/KikoPlayProject/KikoPlay/)上提issue或者在QQ群(874761809)里反馈
-
-请作者喝可乐/茶/咖啡....: 
-
- <img src="/static/img/reward.jpg" width = "150" height = "150"/>
