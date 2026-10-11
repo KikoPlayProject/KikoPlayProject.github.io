@@ -31,3 +31,7 @@ permalink: /about/
 
 
 赞助KikoPlay： [爱发电](https://afdian.com/a/KikoPlay)
+
+或者请作者喝可乐/茶/咖啡....: 
+
+ <img src="/static/img/support.png" width = "150" height = "150"/>
